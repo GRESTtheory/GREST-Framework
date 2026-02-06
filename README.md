@@ -1,35 +1,33 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18500411.svg)](https://doi.org/10.5281/zenodo.18500411)
+# GREST-14: The Unified Metric Architecture (v2.4)
 
-# GREST v1.2: Gravitational Response of Energy, Space, and Time
-### Metric-Response Dynamics & Universal Validation Suite
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18511382.svg)](https://doi.org/10.5281/zenodo.18511382)
 
-**Principal Investigator:** John Gresty  
-**Official Archive:** [Zenodo Record](https://doi.org/10.5281/zenodo.18500411)  
-**License:** Creative Commons Attribution 4.0 / MIT
+**General Relativistic Elemental State Topology**
+*Independent Physics Validation Suite - Locked February 2026*
 
 ---
 
-Overview
+## 🚀 Overview
+GREST-14 provides a unified explanation for gravitational anomalies across physical scales without the requirement for Dark Matter. By utilizing a "Swiss Army Knife" architecture of **14 Independent Blades**, the engine identifies the **State of Form** (Vortex, Disk, Fluid, Sphere) and applies the corresponding pure physics (Kerr, Bessel, Hydrostatic) anchored to the **Universal Acceleration Floor** ($a_0 \approx 1.2 \times 10^{-10} m/s^2$).
 
-GREST provides a unified explanation for gravitational anomalies across physical scales without the requirement for Dark Matter. By introducing a universal vacuum acceleration scale (a0 approx 1.2 x 10^-10 m/s2), the framework defines gravity as a "stiffening" metric response in low-acceleration environments.
+## 📊 v2.4 Validation Results (Locked)
+This repository contains the Official Validation Suite, which tests the GREST v2.4 engine against **50 distinct astrophysical systems** (from Black Holes to Galaxy Clusters).
 
-This repository contains the Official Validation Suite, which tests the GREST formula against 29 distinct astrophysical systems (from Black Holes to Galaxy Clusters), achieving a mean accuracy of 97.4%.
+| Metric | v1.2 (Old) | **v2.4 (Current)** |
+| :--- | :--- | :--- |
+| **Global Accuracy** | 97.4% | **99.65%** |
+| **System Count** | 29 | **50** |
+| **Methodology** | Heuristic Slip | **Pure Physics (Kerr/Bessel)** |
+| **Dark Matter** | None | **None** |
 
-📂 Repository Contents
+## 📂 Repository Contents
+* **`GREST_Master_Whitepaper_v2.4.pdf`** - The full scientific paper detailing the derivations and 14-Blade architecture.
+* **`grest_v2.4_engine.py`** - The "Fire and Forget" Python engine.
+* **`systems_data_50.csv`** - The raw dataset containing observed values for the 50 Master Systems.
+* **`GREST_Validation_Log.txt`** - The official scorecard output.
 
-GREST_Theory_and_Validation.pdf - The full scientific paper detailing the derivation and proofs.
+## ⚡ Quick Start
+To replicate the 50-system Master Validation:
 
-GREST_Universal_Calculator.py - Interactive tool to calculate g_obs from any Newtonian input.
-
-validation_suite.py - Automated script that runs the "Deep Scan" verification against the CSV data.
-
-systems_data.csv - The raw dataset containing observed values for M87*, Andromeda, Bullet Cluster, etc.
-
-GREST_Validation_Results.txt - The official scorecard output.
-
-🚀 Quick Start
-
-To replicate the validation results:
-
-# Run the automated validation
-python validation_suite.py
+```bash
+python grest_v2.4_engine.py
