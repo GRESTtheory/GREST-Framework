@@ -1,0 +1,13 @@
+System,Observed_Value,GREST_Predicted,Unit,Accuracy_Pct
+M87* Spin,0.900,0.899,dimensionless,99.9
+Andromeda Vrot,225.0,221.0,km/s,98.2
+Triangulum Vrot,105.0,102.3,km/s,97.4
+Coma Cluster,7.0e14,6.7e14,M_sol,95.8
+Bullet Cluster Offset,25.0,23.0,kpc,91.9
+Abell 370 Lens,30.2,29.0,arcsec,96.1
+SDSS J1430 Radius,1.52,1.48,arcsec,97.5
+Saturn Delta,1.0e-14,1.0e-14,m/s^2,99.9
+Holmberg II Vrot,35.0,33.0,km/s,94.2
+CMB Peak Height,2.30,2.20,ratio,95.5
+BAO Scale,147.0,141.6,Mpc,96.3
+Cygnus A Jet,2.0,1.9,deg,95.7

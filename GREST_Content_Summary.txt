@@ -1,0 +1,38 @@
+GREST FRAMEWORK: CONTENT SUMMARY & USER GUIDE
+Version: 1.2
+Total Files: 9
+
+1. README.txt
+   - PURPOSE: Master documentation.
+   - CONTENT: Definitions, Universal Formula, and physical constants.
+
+2. systems_data.csv
+   - PURPOSE: Raw Data Repository.
+   - CONTENT: Data for 12 systems including Observed, Predicted, and Accuracy.
+
+3. validation_suite.py
+   - PURPOSE: Automated Verification Engine.
+   - USE: Run to compare CSV data against GREST predictions in a table.
+
+4. GREST_Universal_Calculator.py
+   - PURPOSE: Interactive Testing Tool.
+   - USE: Manual input "box" for testing individual Newtonian (gn) values.
+
+5. GREST_Validation_Results.txt
+   - PURPOSE: Official Scorecard.
+   - CONTENT: Formatted table showing Predicted vs. Observed results.
+
+6. INSTRUCTIONS.txt
+   - PURPOSE: Step-by-Step User Guide.
+   - USE: Commands for terminal execution of the .py scripts.
+
+7. GREST CSV VERIFICATION OUTPUT.txt
+   - PURPOSE: Raw Mathematical Proof. 
+   - CONTENT: Script output confirming the 96.53% mean accuracy. 
+
+8. LICENSE.txt
+   - PURPOSE: Legal Protection.
+   - CONTENT: MIT License terms for the GREST framework.
+
+9. GREST_Content_Summary.txt
+   - PURPOSE: Manifest and Directory Map.

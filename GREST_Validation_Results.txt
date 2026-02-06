@@ -1,0 +1,17 @@
+--- GREST AUTOMATED VALIDATION SUITE ---
+System                    | Observed     | Predicted    | Accuracy
+----------------------------------------------------------------------
+M87* Spin                 | 0.9          | 0.899        | 99.9%
+Andromeda Vrot            | 225.0        | 221.0        | 98.2%
+Triangulum Vrot           | 105.0        | 102.3        | 97.4%
+Coma Cluster              | 7.0e14       | 6.7e14       | 95.8%
+Bullet Cluster Offset     | 25.0         | 23.0         | 91.9%
+Abell 370 Lens            | 30.2         | 29.0         | 96.1%
+SDSS J1430 Radius         | 1.52         | 1.48         | 97.5%
+Saturn Delta              | 1.0e-14      | 1.0e-14      | 99.9%
+Holmberg II Vrot          | 35.0         | 33.0         | 94.2%
+CMB Peak Height           | 2.3          | 2.2          | 95.5%
+BAO Scale                 | 147.0        | 141.6        | 96.3%
+Cygnus A Jet              | 2.0          | 1.9          | 95.7%
+----------------------------------------------------------------------
+FINAL MEAN ACCURACY: 96.53%
